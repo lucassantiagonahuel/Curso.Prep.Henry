@@ -1,0 +1,5 @@
+Variables: Son espacios de memoria que reservamos para guardar informacion la cual vamos a usar a futuro y de esta manera no perderla.
+Strings: Se llama asi a los tipos de datos que engloban letras y se expresan dentro de comillas ''-""
+Funciones: Estas son instrucciones escritas que realizan una determinada tarea en especifico para la cual fueron creadas, por ejemplo sumar dos numeros. Estas pueden recibir argumentos es decir variables, para procesar y devolver mediante un return un resultado. En nuestro ejemplo de sumar dos numeros esos numeros serian los argumentos el return seria el resultado de la suma y la funcion con un nombre especifico la encargada de realizar la tarea.
+If= Es un condicional que va a evaluar si pasa determinada situacion o no, es decir si la condicion que tiene este if es cierta realiza lo que se encuentra en su interior sino sigue con la ejecucion sin entrar aqui.
+Booleanos: Esto se refiere a valores que o son verdad o no, es decir, una determinada condicion se cumple o no, true o false.
